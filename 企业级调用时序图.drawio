@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T02:01:53.232Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="MqGWk8z8Yt4058D509yl" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T02:04:15.322Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8HyQbz2JbwiIPT4rRDAk" version="14.6.11" type="github">
   <diagram id="5li1jjxqQWl-4evD_uFm" name="Page-1">
-    <mxGraphModel dx="1238" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,17 +48,6 @@
         </mxCell>
         <mxCell id="yWy5oMXyejvU2Q47bSwC-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="yWy5oMXyejvU2Q47bSwC-13" vertex="1">
           <mxGeometry x="45" y="463" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="yWy5oMXyejvU2Q47bSwC-78" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;endArrow=open;endFill=0;" parent="yWy5oMXyejvU2Q47bSwC-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="538" as="sourcePoint" />
-            <mxPoint x="240" y="538" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yWy5oMXyejvU2Q47bSwC-79" value="3.4.4 返回图片决策结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yWy5oMXyejvU2Q47bSwC-78" vertex="1" connectable="0">
-          <mxGeometry y="-31" relative="1" as="geometry">
-            <mxPoint x="-10" y="-41" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yWy5oMXyejvU2Q47bSwC-80" value="3.4 视频截帧&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 图片检测" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="yWy5oMXyejvU2Q47bSwC-13" vertex="1">
           <mxGeometry x="-70" y="491" width="100" height="30" as="geometry" />
@@ -359,8 +348,8 @@
         </mxCell>
         <mxCell id="yWy5oMXyejvU2Q47bSwC-72" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;exitX=0.9;exitY=0.731;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444" y="622.95" as="sourcePoint" />
-            <mxPoint x="649.5" y="623" as="targetPoint" />
+            <mxPoint x="444" y="628.95" as="sourcePoint" />
+            <mxPoint x="640" y="629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yWy5oMXyejvU2Q47bSwC-73" value="3.4.1 视频截帧图片批量检测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yWy5oMXyejvU2Q47bSwC-72" vertex="1" connectable="0">
@@ -391,6 +380,28 @@
         <mxCell id="yWy5oMXyejvU2Q47bSwC-77" value="&amp;nbsp;3.4.3 返回图像结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yWy5oMXyejvU2Q47bSwC-76" vertex="1" connectable="0">
           <mxGeometry x="0.135" y="-2" relative="1" as="geometry">
             <mxPoint x="7" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWy5oMXyejvU2Q47bSwC-78" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;endArrow=none;endFill=0;exitX=1;exitY=0.884;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;startArrow=blockThin;startFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="672.8" as="sourcePoint" />
+            <mxPoint x="640" y="673" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWy5oMXyejvU2Q47bSwC-79" value="3.4.4 返回图片决策结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yWy5oMXyejvU2Q47bSwC-78" vertex="1" connectable="0">
+          <mxGeometry y="-31" relative="1" as="geometry">
+            <mxPoint x="-10" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UJ_CJsGeBO7C2g0HCjL-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=1;endArrow=none;endFill=0;exitX=1;exitY=0.884;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;startArrow=blockThin;startFill=1;entryX=-0.1;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yWy5oMXyejvU2Q47bSwC-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="557" as="sourcePoint" />
+            <mxPoint x="630" y="557" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UJ_CJsGeBO7C2g0HCjL-15" value="3.3.6 返回图片决策结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4UJ_CJsGeBO7C2g0HCjL-14">
+          <mxGeometry y="-31" relative="1" as="geometry">
+            <mxPoint x="-10" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

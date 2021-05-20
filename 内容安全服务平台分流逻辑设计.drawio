@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T07:15:43.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="P9BfH3DDVR4w--lXulNt" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T07:18:19.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_yz7IKi30rx2TatoZS3f" version="14.6.13" type="github">
   <diagram id="2mGwdzLx8Ha6aLXs8T1y" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,11 +148,14 @@
         <mxCell id="-Br32BE-vh_sqY5txvh9-48" value="A/B Test系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#FDFDFD;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="141.5" y="154" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="-Br32BE-vh_sqY5txvh9-75" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#FDFDFD;strokeColor=#FF0000;fillColor=#21C0A5;" edge="1" parent="1" source="-Br32BE-vh_sqY5txvh9-49" target="-Br32BE-vh_sqY5txvh9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Br32BE-vh_sqY5txvh9-49" value="指标数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontSize=15;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="139.5" y="576.5" width="98.5" height="40" as="geometry" />
+          <mxGeometry x="145.75" y="577" width="98.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Br32BE-vh_sqY5txvh9-50" value="配置数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontSize=15;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="278" y="576.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="318" y="576.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Br32BE-vh_sqY5txvh9-51" value="评估配置" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontSize=15;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="577" width="84" height="40" as="geometry" />
@@ -214,6 +217,18 @@
           <mxGeometry x="-0.3283" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Br32BE-vh_sqY5txvh9-77" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#FDFDFD;strokeColor=#FF0000;fillColor=#21C0A5;" edge="1" parent="1" source="-Br32BE-vh_sqY5txvh9-76" target="-Br32BE-vh_sqY5txvh9-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Br32BE-vh_sqY5txvh9-76" value="请求" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;fontColor=#ffffff;strokeColor=#B20000;fillColor=#e51400;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Br32BE-vh_sqY5txvh9-78" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=15;fontColor=#FDFDFD;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-Br32BE-vh_sqY5txvh9-79" value="A/B TEST 系统架构" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=28;fontColor=#660000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="294" y="90" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

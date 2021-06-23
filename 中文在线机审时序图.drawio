@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T07:29:05.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Eexr366Gmpnze0qT6HNH" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T07:31:22.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JawQzORe3SHRJZF6fnNn" version="14.7.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1114" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="RXEnnHsVAD80fLG_SkSN-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="215" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RXEnnHsVAD80fLG_SkSN-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="RXEnnHsVAD80fLG_SkSN-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="255" width="10" height="55" as="geometry" />
         </mxCell>
         <mxCell id="RXEnnHsVAD80fLG_SkSN-8" value="分割" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.109;exitPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RXEnnHsVAD80fLG_SkSN-7">
@@ -345,6 +345,9 @@
             <mxPoint x="285" y="620" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RXEnnHsVAD80fLG_SkSN-43" value="多次调用短文本&lt;br&gt;接口" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=middle;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

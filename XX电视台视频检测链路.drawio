@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T07:00:22.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5uHed3spdrNcKPLEnXof" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:48:29.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6w-VCV0ZtY2mAJxKUL-d" version="14.8.0" type="github">
   <diagram id="HBfpj88JwwQCAbCEnsMh" name="Page-1">
-    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,11 +72,11 @@
         <mxCell id="XxTEMyb00BygMt78V1oa-24" value="NAT端口映射" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="610" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XxTEMyb00BygMt78V1oa-25" value="&lt;font&gt;API反向代理&lt;br&gt;图像https跳转&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="289.5" width="100" height="20" as="geometry" />
+        <mxCell id="XxTEMyb00BygMt78V1oa-25" value="&lt;font&gt;&lt;span style=&quot;color: rgb(17, 31, 44); font-size: 14px; background-color: rgb(201, 231, 255);&quot;&gt;1.需要配置ssl证书，2.API path反向代理 3.图像地址代理&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="289.5" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XxTEMyb00BygMt78V1oa-26" value="修改API 图像地址为https" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="525" y="430" width="90" height="20" as="geometry" />
+        <mxCell id="XxTEMyb00BygMt78V1oa-26" value="siamat应用修改API 图像地址为https" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="430" width="105" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
